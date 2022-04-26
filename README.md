@@ -6,7 +6,7 @@ Um projeto simples, mas funcional, de visualização e cadastro de clientes inad
 
 No frontend: React, Redux, Saga, Ant Design, Chakra UI
 
-No backend: NodeJS (Express), MongoDB (Mongoose)
+No backend: NodeJS (Express), MongoDB (Mongoose), Typescript
 
 ## Rodando o projeto
 
