@@ -37,6 +37,7 @@ const ClientesInadimplentesList = () => {
           />
         </Col>
       </Row>
+      <br />
       <Row gutter={24}>
         <Col span={24}>
           <Button
