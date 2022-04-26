@@ -1,6 +1,6 @@
 # clientes-inadimplentes
 
-Um projeto simples, mas funcional, de visualização e cadastro de clientes inadimplmentes.
+Um projeto simples, mas funcional, de visualização e cadastro de clientes inadimplentes.
 
 ## Tecnologias usadas
 
