@@ -22,5 +22,6 @@ npm start
 
 ```
 cd server
+cp .env.example .env
 docker-compose up --build
 ```
